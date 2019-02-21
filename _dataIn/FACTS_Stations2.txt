@@ -1,0 +1,4 @@
+OBJECTID,FID_waterTableStations,name,abv,lat,long,alt_m,since,FID_soilsa_a_nrcs,areasymbol,areaname,sastatcode,sastatname,mapregion,saversion,saverest,iscomplete
+,,Muscatine,MUS,41.3547,-91.1468,,,,,,,,,,,
+,,Nashua,NAS,42.9321,-95.5723,,,,,,,,,,,
+,,Sutherland,SUT,42.9264,-95.5397,,,,,,,,,,,

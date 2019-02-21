@@ -1,0 +1,6 @@
+OBJECTID,FID_waterTableStations,name,abv,lat,long,alt_m,since,FID_soilsa_a_nrcs,areasymbol,areaname,sastatcode,sastatname,mapregion,saversion,saverest,iscomplete
+,,Lake,LAK,41.599722,-87.450833,,,,,,,,,,,
+,,Harrison,HAR,38.389722,-86.079167,,,,,,,,,,,
+,,USGSWell21,W21,41.700556,-86.063889,,,,,,,,,,,
+,,Wayne,WAY,39.741111,-85.135833,,,,,,,,,,,
+,,LaGrange,LAG,41.721667,-85.335,,,,,,,,,,,

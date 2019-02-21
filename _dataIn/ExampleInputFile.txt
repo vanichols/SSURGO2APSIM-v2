@@ -1,0 +1,7 @@
+OBJECTID,FID_waterTableStations,name,abv,lat,long,alt_m,since,FID_soilsa_a_nrcs,areasymbol,areaname,sastatcode,sastatname,mapregion,saversion,saverest,iscomplete
+,,Okoboji2,OK2,43.41621299000,-95.12771350000,,,,,,,,,,,
+,,Okoboji9a,OK9,43.42760291000,-95.17330804000,,,,,,,,,,,
+,,MasonClub,MCG,43.12953000000,-93.24718000000,,,,,,,,,,,
+,,LakeClub,LCG,42.26910000000,-94.72115000000,,,,,,,,,,,
+,,Lime7A,L7A,42.40976015900,-92.00638940330,,,,,,,,,,,
+,,Lime5A,L5A,42.41374572900,-91.99122401720,,,,,,,,,,,

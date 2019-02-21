@@ -1,0 +1,10 @@
+OBJECTID,FID_waterTableStations,name,abv,lat,long,alt_m,since,FID_soilsa_a_nrcs,areasymbol,areaname,sastatcode,sastatname,mapregion,saversion,saverest,iscomplete
+,,Ames,AME,42.02067,-93.7752,,,,,,,,,,,
+,,Kelly,COB,41.9205,-93.7501,,,,,,,,,,,
+,,Kanawha,KAN,42.9094,-93.7916,,,,,,,,,,,
+,,Crawfordsville,CRA,41.1939,-91.4827,,,,,,,,,,,
+,,Lewis,LEW,41.3137,-95.1729,,,,,,,,,,,
+,,McNay,MCN,40.9729,-93.4244,,,,,,,,,,,
+,,Muscatine,MUS,41.3547,-91.1468,,,,,,,,,,,
+,,Nashua,NAS,42.9321,-95.5723,,,,,,,,,,,
+,,Sutherland,SUT,42.9264,-95.5397,,,,,,,,,,,
